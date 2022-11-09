@@ -12,5 +12,10 @@
   		<artifactId>angies-party</artifactId>
  		<version>1.0</version>
 	</dependency>
+	<dependency>
+		<groupId>org.mend</groupId>
+		<artifactId>gals-party</artifactId>
+		<version>1.0</version>
+	</dependency>
 </dependencies>
 </project>
