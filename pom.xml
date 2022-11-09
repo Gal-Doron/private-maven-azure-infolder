@@ -8,9 +8,9 @@
     <version>1.0-SNAPSHOT</version>
 <dependencies>
 	<dependency>
-   	<groupId>gal.gal</groupId>
-		<artifactId>angie</artifactId>
-		<version>0.1</version>
+  		<groupId>org.mend</groupId>
+  		<artifactId>angies-party</artifactId>
+ 		<version>1.0</version>
 	</dependency>
 </dependencies>
 </project>
